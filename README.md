@@ -1,4 +1,4 @@
-# Crop Connect: Efficient Crop Management System
+# Crop Connect: Crop Trading Platform System
 
 ## Overview
 **Crop Connect** is an innovative digital platform aimed at revolutionizing the agricultural sector by facilitating a transparent and efficient marketplace for FMCG companies, distributors, and farmers. This platform bridges the critical gaps in traditional agricultural procurement and sales processes, including opaque pricing and fragmented communication, by leveraging advanced digital solutions.
@@ -22,7 +22,7 @@ The primary goal of Crop Connect is to create a seamless, transparent exchange o
 
 ## Technology Stack
 - **Frontend:** Java Swing UI (Developed using NetBeans)
-- **Backend:** Java
+- **Backend:** Java and Object-Oriented Design
 
 ## Team
 
