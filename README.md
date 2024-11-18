@@ -25,11 +25,11 @@ The primary goal of Crop Connect is to create a seamless, transparent exchange o
 - **Backend:** Java and Object-Oriented Design
 
 ## Team
-
+- Sagar Jayantilal Satra
 - Aditya Ranjan Singh 
 - Amit Anveri
 - Prarthana Krishnamurthy
-- Sagar Jayantilal Satra
+
 
 UML diagram 🔗[Link](https://lucid.app/lucidchart/454dcfe6-e09d-43e6-8918-6d1b7a6627b6/edit?viewport_loc=-4887%2C-621%2C8057%2C3223%2Cdo3QLdja0MrNy&invitationId=inv_e3fc4577-ec98-46c7-a435-7784715a0531)
  
